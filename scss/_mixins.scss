@@ -1,0 +1,61 @@
+@mixin transform {
+	transform:         rotateY( 0deg );
+    -moz-transform:    rotateY( 0deg );
+    -ms-transform:     rotateY( 0deg );
+    -o-transform:      rotateY( 0deg );
+    -webkit-transform: rotateY( 0deg );
+}
+
+@mixin transform1 {
+	transform:         rotateY( 180deg );
+    -moz-transform:    rotateY( 180deg );
+    -ms-transform:     rotateY( 180deg );
+    -o-transform:      rotateY( 180deg );
+    -webkit-transform: rotateY( 180deg );
+}
+
+@mixin transformOrigin {
+	transform-origin:         50% 50% 0px;
+    -moz-transform-origin:    50% 50% 0px;
+    -ms-transform-origin:     50% 50% 0px;
+    -o-transform-origin:      50% 50% 0px;
+    -webkit-transform-origin: 50% 50% 0px;
+}
+
+@mixin transition {
+	transition: all 3s;
+    -moz-transition:    all 3s;
+    -ms-transition:     all 3s;
+    -o-transition:      all 3s;
+    -webkit-transition: all 3s;
+}
+
+@mixin breakpoint($point) {
+   @if $point == desktop {
+     @media (min-width: 70em) { @content ; }
+  }
+   @else if $point == laptop {
+     @media (min-width: 64em) { @content ; }
+  }
+    @else if $point == tablet {
+     @media (min-width: 50em) { @content ; }
+  }
+   @else if $point == phablet {
+     @media (min-width: 37.5em)  { @content ; }
+  }
+  @else if $point == mobileonly {
+     @media (max-width: 37.5em)  { @content ; }
+
+  }
+}
+
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
