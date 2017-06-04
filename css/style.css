@@ -22,6 +22,8 @@ html, body {
         height: 25vh; }
       .row .col-1 .logo {
         background: -moz-linear-gradient(to top right, purple, indigo);
+        background: -webkit-linear-gradient(to top right, purple, indigo);
+        background: linear-gradient(to top right, purple, indigo);
         position: relative; }
         .row .col-1 .logo img {
           width: 70%;
@@ -54,6 +56,8 @@ html, body {
           color: #fff; }
       .row .col-1 .bg2 {
         background: -moz-linear-gradient(to top right, purple, #bf00ff);
+        background: -webkit-linear-gradient(to top right, purple, #bf00ff);
+        background: linear-gradient(to top right, purple, #bf00ff);
         position: relative; }
         .row .col-1 .bg2 h1 {
           position: absolute;
@@ -65,6 +69,8 @@ html, body {
           font-size: 3em; }
       .row .col-1 .instagram, .row .col-1 .youtube {
         background: -moz-linear-gradient(to top right, #bf00ff, indigo);
+        background: -webkit-linear-gradient(to top right, #bf00ff, indigo);
+        background: linear-gradient(to top right, #bf00ff, indigo);
         position: relative; }
         .row .col-1 .instagram:hover, .row .col-1 .youtube:hover {
           cursor: pointer; }
@@ -80,6 +86,8 @@ html, body {
           transition: 1s ease-in-out; }
     .row .text {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .text h2 {
         position: absolute;
@@ -130,6 +138,8 @@ html, body {
         color: #fff; }
     .row .slovo_dole {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .slovo_dole h1 {
         position: absolute;
@@ -177,7 +187,9 @@ html, body {
         transform: translateX(-50%);
         color: #fff; }
     .row .slovo {
-      background: -moz-linear-gradient(to top right, purple, indigo); }
+      background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo); }
       .row .slovo h1 {
         position: absolute;
         top: 50%;
@@ -205,6 +217,8 @@ html, body {
         height: 25vh; }
       .row .col-1 .logo {
         background: -moz-linear-gradient(to top right, purple, indigo);
+        background: -webkit-linear-gradient(to top right, purple, indigo);
+        background: linear-gradient(to top right, purple, indigo);
         position: relative; }
         .row .col-1 .logo img {
           width: 70%;
@@ -237,6 +251,8 @@ html, body {
           color: #fff; }
       .row .col-1 .bg2 {
         background: -moz-linear-gradient(to top right, purple, #bf00ff);
+        background: -webkit-linear-gradient(to top right, purple, #bf00ff);
+        background: linear-gradient(to top right, purple, #bf00ff);
         position: relative; }
         .row .col-1 .bg2 h1 {
           position: absolute;
@@ -248,6 +264,8 @@ html, body {
           font-size: 3em; }
       .row .col-1 .instagram, .row .col-1 .youtube {
         background: -moz-linear-gradient(to top right, #bf00ff, indigo);
+        background: -webkit-linear-gradient(to top right, #bf00ff, indigo);
+        background: linear-gradient(to top right, #bf00ff, indigo);
         position: relative; }
         .row .col-1 .instagram:hover, .row .col-1 .youtube:hover {
           cursor: pointer; }
@@ -263,6 +281,8 @@ html, body {
           transition: 1s ease-in-out; }
     .row .text {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .text h2 {
         position: absolute;
@@ -313,6 +333,8 @@ html, body {
         color: #fff; }
     .row .slovo_dole {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .slovo_dole h1 {
         position: absolute;
@@ -360,7 +382,9 @@ html, body {
         transform: translateX(-50%);
         color: #fff; }
     .row .slovo {
-      background: -moz-linear-gradient(to top right, purple, indigo); }
+      background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo); }
       .row .slovo h1 {
         position: absolute;
         top: 50%;
@@ -383,6 +407,8 @@ html, body {
         height: 25vh; }
       .row .col-1 .logo {
         background: -moz-linear-gradient(to top right, purple, indigo);
+        background: -webkit-linear-gradient(to top right, purple, indigo);
+        background: linear-gradient(to top right, purple, indigo);
         position: relative; }
         .row .col-1 .logo img {
           width: 70%;
@@ -415,6 +441,8 @@ html, body {
           color: #fff; }
       .row .col-1 .bg2 {
         background: -moz-linear-gradient(to top right, purple, #bf00ff);
+        background: -webkit-linear-gradient(to top right, purple, #bf00ff);
+        background: linear-gradient(to top right, purple, #bf00ff);
         position: relative; }
         .row .col-1 .bg2 h1 {
           position: absolute;
@@ -426,6 +454,8 @@ html, body {
           font-size: 3em; }
       .row .col-1 .instagram, .row .col-1 .youtube {
         background: -moz-linear-gradient(to top right, #bf00ff, indigo);
+        background: -webkit-linear-gradient(to top right, #bf00ff, indigo);
+        background: linear-gradient(to top right, #bf00ff, indigo);
         position: relative; }
         .row .col-1 .instagram:hover, .row .col-1 .youtube:hover {
           cursor: pointer; }
@@ -441,6 +471,8 @@ html, body {
           transition: 1s ease-in-out; }
     .row .text {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .text h2 {
         position: absolute;
@@ -491,6 +523,8 @@ html, body {
         color: #fff; }
     .row .slovo_dole {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .slovo_dole h1 {
         position: absolute;
@@ -538,7 +572,9 @@ html, body {
         transform: translateX(-50%);
         color: #fff; }
     .row .slovo {
-      background: -moz-linear-gradient(to top right, purple, indigo); }
+      background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo); }
       .row .slovo h1 {
         position: absolute;
         top: 50%;
@@ -563,6 +599,8 @@ html, body {
         height: 25vh; }
       .row .col-1 .logo {
         background: -moz-linear-gradient(to top right, purple, indigo);
+        background: -webkit-linear-gradient(to top right, purple, indigo);
+        background: linear-gradient(to top right, purple, indigo);
         position: relative; }
         .row .col-1 .logo img {
           width: 70%;
@@ -588,6 +626,8 @@ html, body {
           color: #fff; }
       .row .col-1 .bg2 {
         background: -moz-linear-gradient(to top right, purple, #bf00ff);
+        background: -webkit-linear-gradient(to top right, purple, #bf00ff);
+        background: linear-gradient(to top right, purple, #bf00ff);
         position: relative; }
         .row .col-1 .bg2 h1 {
           position: absolute;
@@ -599,6 +639,8 @@ html, body {
           font-size: 3em; }
       .row .col-1 .instagram, .row .col-1 .youtube {
         background: -moz-linear-gradient(to top right, #bf00ff, indigo);
+        background: -webkit-linear-gradient(to top right, #bf00ff, indigo);
+        background: linear-gradient(to top right, #bf00ff, indigo);
         position: relative; }
         .row .col-1 .instagram .fa-facebook, .row .col-1 .instagram .fa-instagram, .row .col-1 .youtube .fa-facebook, .row .col-1 .youtube .fa-instagram {
           position: absolute;
@@ -609,6 +651,8 @@ html, body {
           transition: 1s ease-in-out; }
     .row .text {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative;
       height: 25vh; }
       .row .text h2 {
@@ -617,6 +661,7 @@ html, body {
         transform: translate(-50%, -50%);
         left: 50%;
         color: #00ffff;
+        text-align: center;
         font-family: 'Marck Script', cursive; }
     .row .slicica {
       background: url("../img/box3.jpg");
@@ -659,6 +704,8 @@ html, body {
         color: #fff; }
     .row .slovo_dole {
       background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo);
       position: relative; }
       .row .slovo_dole h1 {
         position: absolute;
@@ -702,7 +749,9 @@ html, body {
         transform: translateX(-50%);
         color: #fff; }
     .row .slovo {
-      background: -moz-linear-gradient(to top right, purple, indigo); }
+      background: -moz-linear-gradient(to top right, purple, indigo);
+      background: -webkit-linear-gradient(to top right, purple, indigo);
+      background: linear-gradient(to top right, purple, indigo); }
       .row .slovo h1 {
         position: absolute;
         top: 50%;
